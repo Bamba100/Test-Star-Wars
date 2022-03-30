@@ -1,0 +1,38 @@
+.footer{
+     background-image: url("../../images/darthvader_2x.jpg");  
+     position: relative;
+     color: white;
+     width: 100vw;
+     justify-content: space-between;
+     display: flex;
+     padding: 100px;
+
+}
+
+.foot{
+    position: fixed;
+    display: center;
+    padding: 100px;
+}
+
+.footer1{
+        text-align: left;
+        
+}
+.footer2{
+        text-align: center;
+}
+.footer3{
+    text-align: right;
+
+}
+
+.tm-social-icon {
+    width: 40px;
+    height: 40px;
+}
+
+.tm-social-link:hover .tm-social-icon { color: #06C; }
+.tm-text-link { color: #666; }
+.tm-text-link:hover { color: #06C; }
+.tm-carousel { padding-bottom: 30px; }
